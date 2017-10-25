@@ -61,7 +61,7 @@ else
 ```json
 {
     "require":{
-        "programulin/database": "dev-master"
+        "programulin/file-validator": "dev-master"
     },
     "repositories":[
         {
